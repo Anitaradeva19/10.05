@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-6\Desktop\Ivet 10a\klasove\klasove\bin\Debug\klasove.exe.config
+C:\Users\STUDENTS-1409-6\Desktop\Ivet 10a\klasove\klasove\bin\Debug\klasove.exe
+C:\Users\STUDENTS-1409-6\Desktop\Ivet 10a\klasove\klasove\bin\Debug\klasove.pdb
+C:\Users\STUDENTS-1409-6\Desktop\Ivet 10a\klasove\klasove\obj\Debug\klasove.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-6\Desktop\Ivet 10a\klasove\klasove\obj\Debug\klasove.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-6\Desktop\Ivet 10a\klasove\klasove\obj\Debug\klasove.exe
+C:\Users\STUDENTS-1409-6\Desktop\Ivet 10a\klasove\klasove\obj\Debug\klasove.pdb
